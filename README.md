@@ -9,6 +9,7 @@ In the realm of cybersecurity, there are always those who can turn a vulnerabili
 Nuances of Exploitation: SQL Injection via XSS
 
 At first glance, the XSS vulnerability in this plugin seems blatantly typical: a user input element, lacking proper filtration, suddenly appears on screen, enhancing HTML, enabling attacks on an administrator via the link: https:///wp-admin/admin.php?page=wpcf7&post=$FORMID&active-tab=1%22%3E%3Csvg%2Fonload%3Dalert%281%29%2F%2F%3E. However, in the intricate play of shadow and light, the XSS vulnerability opens the door to deeper manipulations for a hacker. Since special characters don't undergo proper sanitization, it allows for discreet exfiltration of the entire database from the site.
+
 Theatrical Staging of the Attack and Participants:
 
     Setting the Scene:
