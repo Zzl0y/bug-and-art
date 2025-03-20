@@ -25,14 +25,14 @@ Protecting the Stage: Preventing a Double Game
 To avoid becoming a hostage to the XSS vulnerability once again, it is necessary to close this vulnerability:
 Measures of Escaping and Data Validation:
 
-    Always use escaping; if not possible, block the vulnerable parameter on the WAF from external access.
+Always use escaping; if not possible, block the vulnerable parameter on the WAF from external access.
     Use in code:
 
     php
 
 Copy code
 
-sanitize_text_field($_GET['active-tab1']));
+    sanitize_text_field($_GET['active-tab1']));
 
 Multiplying Defense Mechanisms:
 
