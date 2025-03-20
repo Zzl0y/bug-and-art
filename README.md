@@ -1,4 +1,4 @@
-# bug-and-art
+# bug-and-arts
 Articles on how to prank a snork, obtain an artifact, and other joys of pentest
 
 # A Graceful Attack: SQL Injection through XSS Flaw in Contact Form 7 #
