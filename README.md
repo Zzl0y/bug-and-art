@@ -1,7 +1,7 @@
 # bug-and-art
 Articles on how to prank a snork, obtain an artifact, and other joys of pentest
 
-#A Graceful Attack: SQL Injection through XSS Flaw in Contact Form 7#
+# A Graceful Attack: SQL Injection through XSS Flaw in Contact Form 7 #
 
 Introduction
 
