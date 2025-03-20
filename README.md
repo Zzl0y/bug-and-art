@@ -3,7 +3,7 @@ Articles on how to prank a snork, obtain an artifact, and other joys of pentest
 
 # A Graceful Attack: SQL Injection through XSS Flaw in Contact Form 7 #
 
-Introduction
+## Introduction ##
 
 In the realm of cybersecurity, there are always those who can turn a vulnerability into a doorway leading to unprotected reservoirs of data. In the Contact Form 7 plugin for WordPress, not only has a reflected XSS vulnerability been discovered (CVE-2024-2242), but there's also a unique opportunity to execute SQL Injection, much like a series of deceitful masks swapping places in a single masquerade. Let’s unveil the cards:
 Nuances of Exploitation: SQL Injection via XSS
@@ -38,7 +38,7 @@ Multiplying Defense Mechanisms:
 
     Integrate Wordfence and other similar tools.
 
-#### Final Aria ####
+## Final Aria ##
 
 This story is a reminder of the constant vigilance and study of the art of cybersecurity, which sometimes resembles the choreography of a waltz between vulnerabilities and protective mechanisms. Strive for mastery in this game of light and shadow, where each vulnerability can become decisive in the entire play.
 Sources of Inspiration:
